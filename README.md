@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/oorzkws/github-stats/blob/master/generated/overview.svg)
+![Commit Summary](https://github.com/oorzkws/github-stats/blob/master/generated/overview.svg) ![Language Summary](https://raw.githubusercontent.com/oorzkws/github-stats/master/generated/languages.svg)
 <!--
 **oorzkws/oorzkws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
